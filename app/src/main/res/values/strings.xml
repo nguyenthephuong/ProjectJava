@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyAppDemo</string>
+
+    <string-array name="kimdung_novels">
+        <item>Cô Gái Đồ Long</item>
+        <item>Thần Điêu Đại Hiệp</item>
+        <item>Thư Kiếm Ân Cừu Lục</item>
+        <item>Võ Lâm Ngũ Bá</item>
+        <item>Thiên Long Bát Bộ</item>
+        <item>Lộc Đỉnh Ký</item>
+        <item>Phi Hồ Ngoại Truyện</item>
+        <item>Anh Hùng Xạ Điêu</item>
+        <item>Hiệp Khách Hành</item>
+        <item>Liên Thành Quyết - Hàn Giang Nhạn</item>
+        <item>Lục Mạch Thần Kiếm</item>
+        <item>Ỷ Thiên Đồ Long Ký</item>
+        <item>Tiếu Ngạo Giang Hồ</item>
+        <item>Thần Điêu Hiệp Lữ</item>
+    </string-array>
+</resources>
